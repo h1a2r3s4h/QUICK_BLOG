@@ -31,4 +31,23 @@ A modern, full stack blog platform powered by AI for content assistance. This pr
 - 💬 **Toasts and Notifications** using React Toastify  
 - 🌍 **Fully Responsive Design** built with Tailwind CSS
 
+## 🔧 Setup Instructions
+
+### 1. Clone the Repository
+git clone https://github.com/your-username/quick-blog.git
+cd quick-blog
+
+### 2. Setup Backend
+cd server
+npm install
+npm start
+
+### 3. Setup Frontend
+cd ../client
+npm install
+npm start
+
+
+
+
 
