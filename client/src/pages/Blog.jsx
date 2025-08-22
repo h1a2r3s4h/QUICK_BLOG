@@ -8,9 +8,6 @@ import Loader from "../components/Loader";
 import { useAppContext } from "../context/AppContext";
 import { toast } from 'react-hot-toast';
 
-
-
-
 const Blog = () => {
   const { id } = useParams();
 
