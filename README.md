@@ -3,7 +3,7 @@
 A modern, full stack blog platform powered by AI for content assistance. This project allows users to create, edit, and read blog posts with rich text editing, authentication, and AI-based features to improve writing quality.
 
 ## 🚀 Live Preview
-🌐 [View Live Project](https://quick-blog-kappa-six.vercel.app)  
+🌐 [View Live Project](https://quick-blog-livid.vercel.app)  
 
 ## 🛠️ Tech Stack
 
