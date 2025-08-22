@@ -12,8 +12,8 @@ connectDB();
 // ✅ Configure CORS for both local & production
 const allowedOrigins = [
   "http://localhost:5173",                   // local Vite
-  "http://localhost:3000",                   // local Next.js
-  "https://quick-blog-kappa-six.vercel.app"  // deployed frontend
+  "https://quick-blog-kappa-six.vercel.app" , // deployed frontend
+  "https://quick-blog-oqb1w5rsg-h1a2r3s4hs-projects.vercel.app" 
 ];
 
 app.use(cors({
